@@ -1,0 +1,5 @@
+venv/
+test/
+books.csv
+errors.txt
+*.bak
